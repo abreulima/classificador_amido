@@ -1,0 +1,2 @@
+Eventualmente gerar os rótulos através do OpenCV.
+A imagem é apenas um placeholder.
